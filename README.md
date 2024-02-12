@@ -15,7 +15,7 @@ Requirements:
 
 How to Use:
 Install the required dependencies: pip install mediapipe opencv-python
-Clone the repository: git clone (https://github.com/Devika-Radhakrishnan/Finger_count_mediapipe)
+Clone the repository: git clone (https://github.com/Devika-Radhakrishnan/Media_Pipe-Projects)
 Navigate to the project directory: cd hand-gesture-recognition
 Run the main script: python hand_gesture_recognition.py
 Hold your hand in front of the webcam and observe the finger count displayed on the screen.
